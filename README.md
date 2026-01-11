@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - 🔹 Automation Script
 
 ### 📫 Contact Me
-- Email: yourmail@gmail.com
+- Email: shrutikumari2580147@gmail.com
 - LinkedIn: https://linkedin.com/in/yourname
 
