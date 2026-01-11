@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi 👋 I'm <Your Name>
+
+💻 Python | Django | REST API Developer  
+🚀 Backend Developer  
+📍 Open for Job / Internship / Freelance
+
+### 🔧 Skills
+- Python
+- Django & Django REST Framework
+- MySQL
+- REST APIs
+- JWT Authentication
+- Git & GitHub
+
+### 📌 Best Projects
+- 🔹 Django REST API Project
+- 🔹 E-commerce / Blog App
+- 🔹 Automation Script
+
+### 📫 Contact Me
+- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/yourname
+
