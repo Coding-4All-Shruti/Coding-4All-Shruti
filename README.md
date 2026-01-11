@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi 👋 I'm <Your Name>
+## Hi 👋 I'm Shruti Kumari
 
 💻 Python | Django | REST API Developer  
 🚀 Backend Developer  
